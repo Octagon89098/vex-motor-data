@@ -1,0 +1,1 @@
+Locked Rotor and Constant Current Graphs has motor stall testing graphs. If you're looking for more specific data, .csv files should be available in the .html for any motor type in Vex Motors or Non-Vex Motors.
