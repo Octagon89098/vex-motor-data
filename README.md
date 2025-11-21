@@ -2,6 +2,8 @@ This is an archive of motor data from motors.vex.com. I did not test these motor
 
 "Locked Rotor and Constant Current Graphs" has motor stall testing graphs. 
 
-If you're looking for more specific data or files to re-make the graphs, .csv files should be available in the .html for any motor type in "Motor Pages\Vex Motors" or "Motor Pages\Non-Vex Motors."
+See "Raw Motor Data" for .csv files of: 12v, 10v, 8v, 6v, and 4v motor curves; locked-rotor or constant current tests; and peak power tests. 
 
-Peak power graphs, motor curves, back-emf graphs, and motor images are in "Other Motor Data."
+Peak power graphs, motor curve graphs, back-emf graphs, and motor images are in "Other Motor Data."
+
+"Motor Pages" has the individual motors.vex.com pages for each motor. There probably won't be any data on the pages that isn't elsewhere in this repo, but I haven't checked.
