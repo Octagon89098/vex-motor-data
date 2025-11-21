@@ -5,3 +5,5 @@ This is an archive of motor data from motors.vex.com. I did not test these motor
 See "Raw Motor Data" for .csv files of: 12v, 10v, 8v, 6v, and 4v motor curves; locked-rotor or constant current tests; and peak power tests. 
 
 Peak power graphs, motor curve graphs, back-emf graphs, and motor images are in "Other Motor Data."
+
+"Motor Pages" has the individual motors.vex.com pages for each motor. There probably won't be any data on the pages that isn't elsewhere in this repo, but I haven't checked.
